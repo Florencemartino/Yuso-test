@@ -1,0 +1,2 @@
+class GeographicPoint < ApplicationRecord
+end
